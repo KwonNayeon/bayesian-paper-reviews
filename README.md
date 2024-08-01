@@ -45,3 +45,7 @@ This repository contains presentation slides and summaries for reviews of three 
 ## About
 
 These presentations and summaries were created as part of my coursework on Bayesian methods. They demonstrate my ability to analyze and communicate complex statistical techniques. The repository includes a summary in Korean, showcasing my bilingual abilities and further analysis.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
