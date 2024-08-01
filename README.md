@@ -48,4 +48,4 @@ These presentations and summaries were created as part of my coursework on Bayes
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE.txt). See the [LICENSE.txt](LICENSE.txt) file for details.
