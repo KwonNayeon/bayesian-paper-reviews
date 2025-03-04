@@ -10,7 +10,7 @@ This repository contains presentation slides and summaries for reviews of three 
    - **Authors:** Hans, C., Dobra, A., & West, M.
    - **Journal:** Journal of the American Statistical Association
    - **Volume:** 102, Issue: 478, Pages: 507–516
-   - [Shotgun_Stochastic_Search_Large_p_Regression/Shotgun_Stochastic_Search_Large_p_Regression.pdf](Shotgun_Stochastic_Search_Large_p_Regression/Shotgun_Stochastic_Search_Large_p_Regression.pdf)
+   - [Shotgun_Stochastic_Search_Large_p_Regression.pdf](Shotgun_Stochastic_Search_Large_p_Regression/Shotgun_Stochastic_Search_Large_p_Regression.pdf)
    - **Team Members:** Nayeon Kwon, Yejin Jeong
    - **Achievement Details:** Our team was awarded the top score for this project, reflecting our deep understanding of the Bayesian methods discussed.
 
@@ -20,7 +20,7 @@ This repository contains presentation slides and summaries for reviews of three 
    - **Authors:** Yuan, Y., & Yin, G.
    - **Journal:** Biometrics
    - **Volume:** 66, Issue: 1, Pages: 105–114
-   - [Bayesian_Quantile_Regression_Longitudinal_Studies/Bayesian_Quantile_Regression_Longitudinal_Studies.pdf](Bayesian_Quantile_Regression_Longitudinal_Studies/Bayesian_Quantile_Regression_Longitudinal_Studies.pdf)
+   - [Bayesian_Quantile_Regression_Longitudinal_Studies.pdf](Bayesian_Quantile_Regression_Longitudinal_Studies/Bayesian_Quantile_Regression_Longitudinal_Studies.pdf)
    - **Additional Resources:**
      - [Review Summary in Korean](Bayesian_Quantile_Regression_Longitudinal_Studies/Bayesian_Quantile_Regression_Review_Korean.pdf)
    - **Team Members:** Nayeon Kwon, Hyunwoo Im
@@ -34,7 +34,7 @@ This repository contains presentation slides and summaries for reviews of three 
    - **Volume:** 70, Issue: 2, Pages: 419–429
    - [Bayesian_Localized_CAR_Health_Effects_Air_Pollution/Bayesian_Localized_CAR_Health_Effects_Air_Pollution.pdf](Bayesian_Localized_CAR_Health_Effects_Air_Pollution/Bayesian_Localized_CAR_Health_Effects_Air_Pollution.pdf)
    - **Additional Resources:**
-     - [Review Summary in Korean](Bayesian_Localized_CAR_Health_Effects_Air_Pollution/Bayesian_Localized_CAR_Health_Effects_Air_Pollution_KR_Summary.pdf)
+     - [Review Summary in Korean](Bayesian_Localized_CAR_Health_Effects_Air_Pollution_KR_Summary.pdf)
    - **Grade Details:** Achieved an A+ grade, reflecting my strong individual performance and thorough understanding of the Bayesian methods.
 
 ## References
