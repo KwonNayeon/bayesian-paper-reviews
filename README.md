@@ -32,9 +32,9 @@ This repository contains presentation slides and summaries for reviews of three 
    - **Authors:** Lee, D., Rushworth, A., & Sahu, S. K.
    - **Journal:** Biometrics
    - **Volume:** 70, Issue: 2, Pages: 419–429
-   - [Bayesian_Localized_CAR_Health_Effects_Air_Pollution/Bayesian_Localized_CAR_Health_Effects_Air_Pollution.pdf](Bayesian_Localized_CAR_Health_Effects_Air_Pollution/Bayesian_Localized_CAR_Health_Effects_Air_Pollution.pdf)
+   - [Bayesian_Localized_CAR_Health_Effects_Air_Pollution.pdf](Bayesian_Localized_CAR_Health_Effects_Air_Pollution/Bayesian_Localized_CAR_Health_Effects_Air_Pollution.pdf)
    - **Additional Resources:**
-     - [Review Summary in Korean](Bayesian_Localized_CAR_Health_Effects_Air_Pollution_KR_Summary.pdf)
+     - [Review Summary in Korean](Bayesian_Localized_CAR_Health_Effects_Air_Pollution/Bayesian_Localized_CAR_Health_Effects_Air_Pollution_KR_Summary.pdf)
    - **Grade Details:** Achieved an A+ grade, reflecting my strong individual performance and thorough understanding of the Bayesian methods.
 
 ## References
@@ -50,4 +50,4 @@ These presentations and summaries were created as part of my coursework on Bayes
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt). See the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the [MIT License](LICENSE.txt).
